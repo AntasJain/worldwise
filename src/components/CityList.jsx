@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import CityItem from "./CityItem";
 import styles from "./CityList.module.css";
 import Spinner from "./Spinner";
